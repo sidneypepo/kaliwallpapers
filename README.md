@@ -2,7 +2,7 @@
 
 If you L O V E Kali Linux as well as me, this repo is for you!
 
-* **NOTE: I'm NOT the artist/owner of almost all wallpapers of this repo. I'm just compiling the best ones here and credits/sources of EVERY SINGLE ONE is described below.**
+* **DISCLAIMER: I'm NOT the artist/owner of almost all wallpapers of this repo. I'm just compiling the best ones here and credits/sources of EVERY SINGLE ONE is described below.**
 
 ---
 
