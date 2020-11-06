@@ -25,7 +25,7 @@ If you L O V E Kali Linux as well as me, this repo is for you!
 
 * [kali-2017.1-2019.3](https://github.com/sidneypepo/kaliwallpapers/tree/main/kali-2017.1-2019.3) -> From `/usr/share/wallpapers/Kali/contents/images` and `/usr/share/wallpapers/KaliLockScreen/contents/images` folder of Kali Linux 2017.1 - 2019.3
 * [kali-2019.4](https://github.com/sidneypepo/kaliwallpapers/tree/main/kali-2019.4) -> https://gitlab.com/kalilinux/packages/kali-legacy-wallpapers/-/tree/kali/master/kali-2019.4
-* [kali-2020.1-2020.3](https://github.com/sidneypepo/kaliwallpapers/tree/main/kali-2020.1-2020.3) -> From `/usr/share/backgrounds/kali/` folder of Kali Linux 2020.1 - 2020.3
+* [kali-2020.1-2020.4](https://github.com/sidneypepo/kaliwallpapers/tree/main/kali-2020.1-2020.4) -> From `/usr/share/backgrounds/kali/` folder of Kali Linux 2020.1 - 2020.4
 
 ### kali-community-wallpapers
 * [kali-community](https://github.com/sidneypepo/kaliwallpapers/tree/main/kali-community) -> https://gitlab.com/kalilinux/packages/kali-community-wallpapers
